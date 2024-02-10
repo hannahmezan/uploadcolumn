@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
