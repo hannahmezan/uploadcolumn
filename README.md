@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
