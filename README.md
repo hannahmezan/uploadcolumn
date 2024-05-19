@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+docs: update view-results-in-terminal.md (#66)
