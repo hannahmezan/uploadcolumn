@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix docs H1 tags (#7182)
