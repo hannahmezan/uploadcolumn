@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Merge pull request #22 from SkalskiP/patch-1
