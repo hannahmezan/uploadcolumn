@@ -1,1 +1,1 @@
-fix non-coco val
+Elaborate Train and Predict mode docs arguments (#8137)
